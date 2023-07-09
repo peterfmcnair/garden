@@ -1,6 +1,7 @@
 ---
 date: 2023-06-19
 tags: lit-review/read 2nd-basic 
+feed: show
 aliases:
 ---
 # A Comparison of Stochastic and Deterministic Channel Models for V2V Applications
